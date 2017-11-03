@@ -5,3 +5,4 @@ Language used: C++ with pthreads
 Model: MIMD
 Duration: 3 hours
 
+The root is saved in a rootpara.txt and rootseq.txt file
